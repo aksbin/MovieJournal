@@ -45,8 +45,8 @@ hr {
 }
 
 .poster {
-    max-width: 200px;
-    max-height: 400px;
+    max-width: 30%;
+    max-height: contain;
 }
 
 .movieSummary{
